@@ -1,0 +1,18 @@
+{
+	"name": "yue",
+	"version": "1.0",
+	"author": "YamStrip",
+	"description": "Yue web site construction framework ",
+	"keywords": [ "nodejs", "yue" ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yamstrip/yuejs"
+	},
+	"license":"MIT",
+	"engines": { "node": "14.x" },
+	"scripts": {
+		"start": "node index.js"
+	},
+	"main": "index.js",
+	"preferGlobal": true
+}
